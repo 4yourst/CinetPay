@@ -1,0 +1,1248 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Varela+Round&display=swap');
+body{
+    margin: 0;
+    font-family: "Varela Round", sans-serif;
+}
+.header{
+    padding: 15px 0;
+    z-index: 10px;
+    background-color: rgba(255, 255, 255, 0.99);
+    width: 100%;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button1{
+    background-color: #FF4B26;
+    color: white;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 25px;
+    font-family: "Varela Round", sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    transition: background-color 0.3s;
+}
+
+.button1:hover {
+    background-color: #e63e1c;
+}
+.abb{
+    margin-right: -120px;
+}
+.seconecter{
+    color: #424242;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 15px;
+    margin-right: 20px;
+    transition: 0.1s ease-out;
+}
+.seconecter:hover{
+    color: #e63e1c;
+    transition: 0.1s ease-in;
+}
+.menu ul {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+.cinetpaylogo{
+    margin-left: -150px;
+}
+
+.menu li {
+    display: flex;
+    align-items: center;
+}
+.menu{
+    margin-left: -370px;
+}
+
+.menu a {
+    color: #424242;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 15px;
+    padding: 8px 12px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.menu a:hover {
+    color: #FF4B26;
+    background-color: transparent;
+}
+
+.bi-chevron-down {
+    font-size: 12px;
+}
+.section1{
+    width: 97%;
+    margin: 0 auto;
+    border-radius: 25px;
+    background-color: black;
+    height: 1600px;
+    margin-bottom: 30px;
+}
+.chezcinetpay a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 12px;
+    background-color: transparent;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 0.1px solid rgba(255, 255, 255, 0.12);
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    width: 330px;
+}
+.chezcinetpay{
+    text-align: center;
+    padding-top: 190px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pointvert{
+    color: greenyellow;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -15px;
+    margin-right: -30px;
+}
+.Grostitre{
+    color: white;
+    text-align: center;
+    font-size: 55px;
+    margin-top: -65px;
+}
+
+.croissance{
+    background-color: #FF4B26;
+    border-radius: 12px !important;
+    padding: -10px;
+    transform: rotate(-3deg) !important;
+    display: inline-flex !important;
+}
+.paragraph1{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -50px;
+    padding-bottom: 20px;
+}
+.container2{
+    width: 600px;
+    margin: 0px auto;
+    display: flex;
+    gap: 10px;
+    text-align: center;
+}
+.button3{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 25px;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    transition: background-color 0.3s;
+}
+
+.bi-telephone{
+    padding-right: 10px;
+    font-size: 18px;
+}
+.pilar{
+    gap: 10px;
+    margin: 50px auto;
+    justify-content: space-between;
+    width: 1200px;
+    text-align: center;
+}
+.eclair p{
+    color: white; 
+    font-weight: bold;
+    font-size: 20px;
+}
+.bi-globe{
+    padding-right: 10px;
+    font-size: 18px;
+}
+.bi-wallet2{
+    padding-right: 10px;
+    font-size: 18px;
+}
+.bi-wallet{
+    padding-right: 10px;
+    font-size: 18px;
+}
+.eclair{
+    width: 33%;
+}
+.video video{
+    width: 1280px;
+    border-radius: 40px;
+}
+.video{
+    text-align: center;
+    align-items: center;
+}
+.Simplicité{
+    margin-bottom: -70px;
+}
+.apps{
+    font-size: 50px;
+    background-clip: text;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+.text1{
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 60px;
+    font-size: 20px;
+}
+.zero-frais {
+    padding: 80px 0;
+    background-color: #fff;
+}
+.sec3{
+    margin-top: -80px;
+}
+.zero-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 90px;
+}
+
+.zero-content {
+    flex: 1;
+}
+
+.zero-title {
+    font-size: 45px;
+    line-height: 1.2;
+    margin-bottom: 30px;
+}
+
+.zero-title .blue {
+    color: #0057FF;
+}
+
+.zero-title .yellow {
+    color: #FFB800;
+}
+
+.zero-description {
+    font-size: 18px;
+    color: #4A4A4A;
+    margin-bottom: 40px;
+    line-height: 1.6;
+}
+.zero-image {
+    flex: 1;
+    text-align: right;
+}
+
+.zero-image img {
+    max-width: 125%;
+    height: auto;
+}
+.bi-receipt{
+    font-size: 34px;
+    padding-right: 20px;
+}
+.bi-arrow-right{
+    padding-left: 5px;
+    font-size: 18px;
+}
+.testimonial-card {
+    background: #fff;
+    border-radius: 15px;
+    padding: 12px;
+    border: 0.1px solid rgba(114, 114, 114, 0.12);
+    margin-top: 60px;
+}
+
+.testimonial-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.profile-pic {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.user-info h3{
+    margin-bottom: -15px;
+}
+.testimonial-text{
+    font-size: 18.7px;
+}
+.user-info p{
+    color: gray;
+    font-size: 14px;
+}
+.trait{
+    color: red;
+    width: 1200px;
+    margin-top: 60px;
+}
+.bi-rocket-takeoff-fill{
+    font-size: 34px;
+    padding-right: 20px;
+}
+.bi-link{
+    font-size: 34px;
+    padding-right: 20px;
+}
+.bi-cash-stack{
+    font-size: 34px;
+    padding-right: 20px;
+}
+.payout img{
+    border-radius: 20px;
+    max-width: 115%;
+}
+.text2{
+    font-size: 18px;
+    margin-top: -35px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin: 40px auto;
+    width: 900px;
+    filter: grayscale(100%);
+}
+.sectpart2{
+    width: 93%;
+    background-color: #262A2E;
+    height: 1300px;
+}
+.cine2{
+    padding-top: 110px;
+    padding-bottom: 20px;
+}
+
+.cine2 a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 11px;
+    background-color: #FF4B26;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 0.1px solid rgba(255, 255, 255, 0.12);
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    width: 330px;
+}
+.Grostitre2{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    margin-top: -65px;
+    padding-top: 30px;
+}
+.paragraph2{
+    color: gray;
+    text-align: center;
+    font-size: 25px;
+    margin-top: -65px;
+    padding-top: 30px;
+}
+
+.stats-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px 0;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.stat-item {
+    flex: 1 1 30%;
+    margin: 20px;
+    padding: 20px;
+}
+
+.stat-item i {
+    font-size: 40px;
+    margin-bottom: 10px;
+    color: #FF4B26;
+}
+
+.stat-item h3 {
+    font-size: 30px;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+.stat-item p {
+    font-size: 20px;
+    color: gray;
+}
+.apps2{
+    font-size: 40px;
+}
+
+.testimonials-section {
+    padding-top: 10px 0;
+    margin-bottom: 130px;
+    background-color: #fff;
+}
+
+.testimonials-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 0 30px;
+}
+
+.testimonial-box {
+    flex: 1;
+    background: #fff;
+    border-radius: 15px;
+    padding: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 520px;
+}
+
+.testimonial-quote {
+    font-size: 20px;
+    line-height: 1.6;
+    color: #424242;
+    margin-bottom: 30px;
+}
+
+.testimonial-author {
+    margin-top: auto;
+}
+
+.testimonial-author h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.testimonial-author p {
+    font-size: 14px;
+    color: #666;
+    margin: 0;
+}
+.text3{
+    color: gray;
+}
+.button4{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    padding: 12px 24px;
+    border: 0.1px solid rgb(0, 0, 0);
+    border-radius: 25px;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    transition: background-color 0.3s;
+}
+.apps3{
+    font-size: 40px;
+}
+.Simplicité2{
+    margin-bottom: 30px;
+}
+.container4{
+    margin-bottom: 70px;
+}
+
+.footer {
+    background-color: #262A2E;
+    color: white;
+    padding-bottom: 30px;
+    width: 97%;
+    margin: 0 auto;
+    border-radius: 25px;
+    margin-bottom: 30px;
+}
+
+.newsletter-section {
+    background-color: #262A2E;
+    padding: 40px 0;
+    border-radius: 25px;
+}
+
+.newsletter-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.newsletter-container h2 {
+    font-size: 24px;
+    margin: 0;
+    flex: 1;
+}
+
+.newsletter-form {
+    display: flex;
+    gap: 41px;
+    flex: -10;
+}
+
+.email-input {
+    flex: 1;
+    padding: 12px 20px;
+    border-radius: 9px;
+    border: none;
+    font-size: 16px;
+}
+
+.subscribe-btn {
+    background-color: #FF4B26;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-brand {
+    flex: 1;
+}
+
+.footer-logo {
+    width: 180px;
+    margin-bottom: 20px;
+}
+
+.footer-tagline {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.language-selector {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: white;
+    cursor: pointer;
+}
+
+.footer-links {
+    flex: 2;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-column h3 {
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: gray;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 12px;
+}
+
+.footer-column ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    transition: 0.1s ease-out;
+    font-weight: bolder;
+}
+
+.footer-column ul li a:hover {
+    color: gray;
+    transition: 0.1s ease-in;
+}
+
+.footer-bottom {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-bottom p {
+    color: gray;
+    font-size: 18px;
+}
+
+.social-links {
+    display: flex;
+    gap: 20px;
+}
+
+.social-links a {
+    color: #999;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.social-links a:hover {
+    color: white;
+}
+
+.login-section {
+    min-height: 100vh;
+    display: flex;
+    width: 100%;
+}
+
+.login-left {
+    flex: 1;
+    position: relative;
+    overflow: hidden;
+}
+
+.login-bg-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.5);
+}
+
+.login-overlay {
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    right: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.login-text h2 {
+    color: white;
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 0;
+    line-height: 1.2;
+}
+
+.partners-overlay {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.partners-overlay img {
+    height: 40px;
+    width: auto;
+}
+
+.login-container {
+    flex: 1;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.login-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.login-logo {
+    width: 180px;
+    margin-bottom: 30px;
+}
+
+.login-header h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.login-subtitle {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.login-form .form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 14px;
+    color: #333;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.password-input {
+    position: relative;
+}
+
+.toggle-password {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #666;
+}
+
+.login-button {
+    width: 100%;
+    padding: 14px;
+    background-color: #FF4B26;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.login-button:hover {
+    background-color: #e63e1c;
+}
+
+.form-links {
+    text-align: center;
+}
+
+.forgot-password {
+    color: #FF4B26;
+    text-decoration: none;
+    font-size: 14px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.no-account {
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.create-account {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #FFE8E6;
+    color: #FF4B26;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Pour la responsivité */
+
+@media screen and (max-width: 1024px) {
+    .container {
+        padding: 0 20px;
+    }
+
+    .menu {
+        margin-left: 0;
+    }
+
+    .cinetpaylogo {
+        margin-left: 0;
+    }
+
+    .abb {
+        margin-right: 0;
+    }
+
+    .video video {
+        width: 100%;
+    }
+
+    .zero-container {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .zero-image img {
+        max-width: 100%;
+    }
+
+    .testimonials-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .testimonial-box {
+        height: auto;
+    }
+
+    .stats-section {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        padding: 20px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    
+    .stat-item {
+        margin: 0;
+        padding: 20px 10px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    
+    .stat-item h3 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    
+    .stat-item p {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    
+    .apps2 {
+        margin-top: 40px;
+        padding-top: 20px;
+    }
+    
+    .sectpart2 {
+        padding-bottom: 60px;
+    }
+
+    .newsletter-container {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+    }
+
+    .newsletter-form {
+        width: 100%;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .footer-links {
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .footer-column {
+        flex: 1 1 45%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header .container {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .menu ul {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .abb {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .section1 {
+        height: auto;
+        padding: 40px 0;
+    }
+
+    .Grostitre {
+        font-size: 35px;
+    }
+
+    .container2 {
+        flex-direction: column;
+        width: 100%;
+        gap: 15px;
+    }
+
+    .pilar {
+        flex-direction: column;
+    }
+
+    .eclair {
+        width: 100%;
+    }
+
+    .stat-item {
+        flex: 1 1 100%;
+    }
+
+    .images {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .images img {
+        width: 120px;
+    }
+
+    .login-section {
+        flex-direction: column;
+    }
+
+    .login-left {
+        display: none; 
+    }
+
+    .login-container {
+        padding: 20px;
+    }
+
+    .login-header h1 {
+        font-size: 24px;
+    }
+
+    .footer-column {
+        flex: 1 1 100%;
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+    }
+
+    .sectpart2 {
+        height: auto;
+        padding-bottom: 40px;
+    }
+    
+    .cine2 {
+        padding-top: 60px;
+    }
+    
+    .Grostitre2 {
+        margin-top: 20px;
+        padding-top: 10px;
+        font-size: 28px;
+        line-height: 1.3;
+    }
+    
+    .paragraph2 {
+        margin-top: 20px;
+        padding-top: 10px;
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    
+    .croissance {
+        display: inline-block !important;
+        margin: 5px 5px 5px 0;
+        padding: 0 8px;
+    }
+    
+    .Grostitre2 h1 br {
+        display: inline-block;
+        content: " ";
+        margin: 0 5px;
+    }
+
+    .stats-section {
+        grid-template-columns: 1fr;
+    }
+    
+    .stat-item i {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+    
+    .sectpart2 {
+        margin-bottom: 30px;
+    }
+    
+    .apps2 {
+        font-size: 32px;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .container {
+        max-width: 1200px;
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        font-size: 14px;
+    }
+
+    .login-form input,
+    .login-button {
+        font-size: 16px;
+    }
+
+    .testimonial-quote {
+        font-size: 16px;
+    }
+
+    .zero-title {
+        font-size: 32px;
+    }
+}
+
+@media (hover: none) {
+    .button1,
+    .button3,
+    .button4,
+    .toggle-password,
+    .menu a {
+        padding: 12px 20px;
+    }
+}
+
+html, body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+@media screen and (max-width: 1024px) {
+    .section1, .sectpart2, .footer {
+        width: 100%;
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        overflow: hidden;
+    }
+    
+    .video {
+        width: 100%;
+        padding: 0 15px;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+    
+    .video video {
+        max-width: 100%;
+    }
+    
+    .zero-image {
+        width: 100%;
+        overflow: hidden;
+    }
+    
+    .zero-image img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 1025px) {
+    .section1, .sectpart2, .footer {
+        width: 97%;
+        max-width: 97%;
+        overflow: hidden;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .section1 {
+        height: auto;
+    }
+    
+    .sectpart2 {
+        height: auto;
+    }
+    
+    .Grostitre, .Grostitre2 {
+        font-size: 28px;
+        padding: 0 15px;
+    }
+    
+    .paragraph1, .paragraph2 {
+        font-size: 16px;
+        padding: 0 15px;
+    }
+    
+    .zero-title {
+        font-size: 28px;
+    }
+    
+    .zero-description {
+        font-size: 16px;
+    }
+    
+    .testimonial-text {
+        font-size: 16px;
+    }
+    
+    .newsletter-form {
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .subscribe-btn {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .cinetpaylogo, .menu, .abb {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    
+    .header .container {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .paragraph1, .paragraph2 {
+        padding: 0 20px;
+        margin-bottom: 30px;
+    }
+    
+    .chezcinetpay a {
+        display: inline-block;
+        width: auto;
+        max-width: 90%;
+    }
+    
+    .stats-section {
+        padding: 0 15px;
+    }
+    
+    .stat-item {
+        margin: 10px 0;
+        padding: 15px 10px;
+    }
+    
+    .stat-item h3 {
+        font-size: 24px;
+    }
+    
+    .stat-item p {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container2 {
+        width: auto;
+        max-width: 100%;
+        padding: 0 20px;
+    }
+    
+    .video {
+        padding: 0 15px;
+    }
+    
+    .video video {
+        max-width: 100%;
+        border-radius: 20px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .Grostitre {
+        margin-top: 20px;
+    }
+    
+    .paragraph1 {
+        margin-top: 20px;
+    }
+}
